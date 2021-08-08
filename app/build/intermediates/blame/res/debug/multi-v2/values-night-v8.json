@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dokumen DIVI\\Tugas kuliah\\smt6\\AKB\\cekongkir\\RajaOngkir\\Ongkirin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\TUGAS\\SEMESTER 6\\RABU\\AKB\\TUBES\\ongkirin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Freza\\.gradle\\caches\\transforms-2\\files-2.1\\be6327719512c19af6e3dfcc948c3a09\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\MISKIYAH\\.gradle\\caches\\transforms-2\\files-2.1\\68db84bb9574e51ea5a703134e8ec50a\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Freza\\.gradle\\caches\\transforms-2\\files-2.1\\b5cf40796c25367401fbf6ec124658c0\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\MISKIYAH\\.gradle\\caches\\transforms-2\\files-2.1\\e64782aaa5ea9baac8af51e12a168519\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

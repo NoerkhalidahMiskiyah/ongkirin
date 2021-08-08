@@ -26,7 +26,7 @@ public class Api {
 
         builder.addInterceptor(chain -> {
             Request request = chain.request().newBuilder()
-                    .addHeader("key", "cbbc7a6ba8b0af9a1606e25f1efa36e7")
+                    .addHeader("key", "bd11634027e73556b93da271f1a66118")
                     .build();
             return chain.proceed(request);
         });

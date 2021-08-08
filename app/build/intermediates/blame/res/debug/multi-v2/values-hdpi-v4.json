@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dokumen DIVI\\Tugas kuliah\\smt6\\AKB\\cekongkir\\RajaOngkir\\Ongkirin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "D:\\TUGAS\\SEMESTER 6\\RABU\\AKB\\TUBES\\ongkirin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Freza\\.gradle\\caches\\transforms-2\\files-2.1\\be6327719512c19af6e3dfcc948c3a09\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\MISKIYAH\\.gradle\\caches\\transforms-2\\files-2.1\\68db84bb9574e51ea5a703134e8ec50a\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

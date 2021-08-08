@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421589205951",
+    "project_id": "ongkirin-22eaf",
+    "storage_bucket": "ongkirin-22eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421589205951:android:ddd4d58f622c5941b1970a",
+        "android_client_info": {
+          "package_name": "com.noerkhalidah.ongkirin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421589205951-bcl6do1sbt5fej2r4ao85tcpfushsc4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Uy6CGuyfACl3AwX1ROr_aiPAEplacH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421589205951-bcl6do1sbt5fej2r4ao85tcpfushsc4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
